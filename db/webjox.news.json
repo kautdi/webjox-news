@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "66323dc8d399a22b88b3ab08"
+  },
+  "img": "https://habrastorage.org/r/w780/getpro/habr/upload_files/2a2/ae8/c6c/2a2ae8c6c0765a39399a24460a21f3e8.jpg",
+  "title": "Новости вчера",
+  "description": "khfvbdjhvbdjfhbvjkhdbfvhkj",
+  "status": false,
+  "categoryId": "6632386a58297245603feb2b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632c4aaf6904a18f04229a5"
+  },
+  "img": "https://img.freepik.com/premium-vector/breaking-news-tv-channel-news-screensaver_34230-481.jpg",
+  "title": "Новости сегодня",
+  "description": "khfvbdjhvbdjfhbvjkhdbfvhkj",
+  "status": true,
+  "categoryId": "6632386a58297245603feb2b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632c4aef6904a18f04229a6"
+  },
+  "img": "https://komiinform.ru/content/news_trands/7492/02.png",
+  "title": "Новости сегодня",
+  "description": "khfvbdjhvbdjfhbvjkhdbfvhkj",
+  "status": true,
+  "categoryId": "6632386a58297245603feb2b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632c4b3f6904a18f04229a7"
+  },
+  "img": "https://static8.depositphotos.com/1338574/829/i/450/depositphotos_8292496-stock-photo-news.jpg",
+  "title": "Новости сегодня",
+  "description": "khfvbdjhvbdjfhbvjkhdbfvhkj",
+  "status": true,
+  "categoryId": "6632386a58297245603feb2b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632d1e528261d4c0c8e8bb6"
+  },
+  "img": "https://habrastorage.org/webt/bc/8d/xl/bc8dxlhzscdzekjkiavqspotvqc.jpeg",
+  "title": "Новости сегодня",
+  "description": "khfvbdjhvbdjfhbvjkhdbfvhkj",
+  "status": true,
+  "categoryId": "6632d1da28261d4c0c8e8bb4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632d26928261d4c0c8e8bb7"
+  },
+  "img": "https://veryimportantlot.com/uploads/over/files/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/2020/%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C%202020/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%B1%D0%BB%D0%BE%D0%B3%D0%B0.%20%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%2037%20(1)%20%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0.%20%20%D0%9C%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9%20%D0%A2%D0%B0%D0%B4%D0%B6-%D0%9C%D0%B0%D1%85%D0%B0%D0%BB%20%D0%B2%20%D0%98%D0%BD%D0%B4%D0%B8%D0%B8%2C%20XVII%20%D0%B2%D0%B5%D0%BA.jpg",
+  "title": "Что-то про дома",
+  "description": "лвомолваомтвалдотмдлова",
+  "status": true,
+  "categoryId": "6632d1da28261d4c0c8e8bb4",
+  "__v": 0
+}]

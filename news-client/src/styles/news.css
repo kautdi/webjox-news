@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Unbounded:wght@200..900&display=swap');
+
+.news-items{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.news-container{
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.news-item{
+    padding: 18px;
+    border: 1px solid #666666;
+    border-radius: 15px;
+    width: 420px;
+    text-decoration: none;
+}
+.news-link{
+    text-decoration: none;
+}
+.news-item:hover{
+    cursor: pointer;
+    box-shadow: 9px 53px 118px -29px rgba(0,0,0,0.75);
+}
+.news-title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    color: rgb(252, 252, 252);
+}
+.news-item .pic-block{
+    overflow: hidden;
+    width: 380px;
+    height: 300px;
+}
+.pic-block img{
+    width: auto;
+    height: 200%;
+    margin: -60px 0 0 -240px;
+}
+.news-description{
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    color: rgb(252, 252, 252);
+}
+.news-category{
+    border-radius: 10px;
+    background-color: #949494;
+    padding: 5px 8px;
+    width: 100px;
+}
+.category-text{
+    padding: 0px;
+    margin: 0px;
+    color: rgb(3, 3, 3);
+}
+
+.pagination{
+    margin-top: 50px;
+    text-align: center;
+}
+.btn-pagination{
+    width: 120px;
+    height: 40px;
+    background-color: #66666600;
+    border: 1px solid #e6b333;
+    color: #e6b333;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+.btn-pagination:hover{
+    cursor: pointer;
+}
+.num-pagination{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 700;
+}
+.input-block-edit{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.kolvo-selected-edit{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    padding: 10px 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #5E5151;
+    outline: none;
+    font-family: "Montserrat", sans-serif;
+}
+.news-head{
+    margin-bottom: 50px;
+}
+.btn-add{
+    padding: 10px 20px;
+    background-color: #e6b333;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+}
+.btn-add:hover{
+    transition: 0.5s;
+    background-color: #a07f2c;
+}

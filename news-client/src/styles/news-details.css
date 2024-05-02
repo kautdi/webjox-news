@@ -1,0 +1,139 @@
+.container {
+    padding: 100px 200px;
+}
+.news-edit {
+    background-color: #2A2F35;
+    border-radius:36px;
+    width: 100%;
+    height: 715px;
+    display: flex;
+    gap: 100px;
+}
+.pic-block {
+    width: 50%;
+    overflow: hidden;
+    width: 35%;
+    height: 100%;
+    border-radius: 36px 0px 0px 36px;
+}
+.pic-block img{
+    width: auto;
+    height: 200%;
+
+}
+.input-edit{
+    width: 100%;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    padding: 0px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #5E5151;
+    outline: none;
+    font-family: "Montserrat", sans-serif;
+}
+.label{
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700px;
+    margin-bottom: 9px;
+    color: #fff;
+}
+.edit-block {
+    
+    width: 50% ;
+}
+.input-block {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.input-flexcont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.textarea-edit{
+    outline: none;
+    resize: none;
+    font-family: "Montserrat", sans-serif;
+    height: 151px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #5E5151;
+}
+.selected-edit{
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    padding: 10px 10px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #5E5151;
+    outline: none;
+    font-family: "Montserrat", sans-serif;
+}
+.btn-block{
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}
+
+.btn-block .btn{
+    width: 100%;
+    height: 62px;
+    border-radius: 24px;
+    font-size: 20px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    background-color: #CC9D23;
+    outline: none;
+    border: 0px solid transparent;
+}
+.btn-block .btn:hover{
+    cursor: pointer;
+}
+.btn-block .btn.btn-delete{
+    background-color: #B53A3A;
+}
+.news-add{
+    background-color: #2A2F35;
+    padding: 20px 40px ;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:36px;
+    height: 715px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.news-add .selected-edit{
+    width: 200px;
+}
+.btn-logout{
+    padding: 12px 25px;
+    border-radius: 24px;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    background-color: #480575;
+    outline: none;
+    border: 0px solid transparent;
+}
+.btn-logout:hover{
+    cursor: pointer;
+}
+
+
